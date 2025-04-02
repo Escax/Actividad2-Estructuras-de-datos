@@ -2,7 +2,7 @@
 ### Estructura de datos | CORPORACIÓN UNIVERSITARIA IBEROAMERICANA.
 
 ## Descripción ✍🏽
-Este proyecto es un **Sistema de Gestión de Biblioteca** que utiliza **Estructuras de Datos Lineales** como **listas, pilas, colas y arreglos** para administrar de manera eficiente la información de libros y usuarios. Es una implementación inicial enfocada en la organización y manipulación de datos con estructuras fundamentales en computación.
+Este proyecto es un **Sistema de Gestión de Biblioteca** que utiliza **Estructuras de Datos Lineales** como **listas, pilas, colas y arreglos** para administrar de manera eficiente la información de libros y usuarios. Es una implementación inicial enfocada en la organización y manipulación de datos.
 
 ## Características
 - **Registro de libros** con detalles como título, autor, género y disponibilidad.
