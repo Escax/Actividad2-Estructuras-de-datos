@@ -7,8 +7,8 @@ Este proyecto es un **Sistema de Gestión de Biblioteca** que utiliza **Estructu
 ## Características
 - **Registro de libros** con detalles como título, autor, género y disponibilidad.
 - **Gestor de usuarios** con información sobre los lectores.
-- **Préstamos y devoluciones** mediante una estructura de **cola** (FIFO).
-- **Historial de libros leídos** utilizando una **pila** (LIFO).
+- **Préstamos y devoluciones** mediante una estructura de **cola**.
+- **Historial de libros leídos** utilizando una **pila**.
 - **Búsqueda de libros** mediante listas ordenadas y desordenadas.
 - **Cálculo del total de préstamos realizados**.
 - **Interfaz interactiva de línea de comandos** para la gestión del sistema.
