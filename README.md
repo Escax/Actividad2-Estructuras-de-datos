@@ -26,7 +26,6 @@
 - `Listas`:
   - Para mostrar devoluciones recientes y otros elementos en orden.
 
----
 
 ## 📂 Estructura del código
 
@@ -43,7 +42,6 @@
   - Buscar libros y usuarios.
   - Mostrar árboles ordenados alfabéticamente.
 
----
  
  ## Uso
  1. Registrar libros y usuarios.
@@ -83,5 +81,5 @@
 
 
 ---
-**Autores:** Andres Felipe Luenguas | Jhojan Esneider Monroy | Eduardo Romero | Alejandro Rodriguez. 🫱🏽‍🫲🏽
+## **Autores:** Andres Felipe Luenguas | Jhojan Esneider Monroy | Eduardo Romero | Alejandro Rodriguez. 🫱🏽‍🫲🏽
 
