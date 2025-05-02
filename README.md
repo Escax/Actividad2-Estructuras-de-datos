@@ -16,6 +16,34 @@
  - **Lenguaje:** Python
  - **Estructuras de Datos:** Listas, Pilas, Colas, Diccionarios
  - **Interacción con el usuario:** Entrada y salida a través de la consola
+
+## 🧠 Estructuras de datos utilizadas
+
+- `Árbol binario`:
+  - Para almacenar libros (`ArbolLibros`) y usuarios (`ArbolUsuarios`).
+- `Cola (deque)`:
+  - Para gestionar la lista de espera de cada libro.
+- `Listas`:
+  - Para mostrar devoluciones recientes y otros elementos en orden.
+
+---
+
+## 📂 Estructura del código
+
+- **Clases principales:**
+  - `Libro`: contiene título, autor, estado de préstamo y lista de espera.
+  - `Usuario`: contiene nombre del usuario.
+  - `NodoLibro` y `NodoUsuario`: nodos personalizados para los árboles.
+  - `ArbolLibros` y `ArbolUsuarios`: árboles binarios de búsqueda (BST).
+  - `Biblioteca`: contiene la lógica central para préstamos, devoluciones y listas de espera.
+- **Funcionalidades del menú:**
+  - Registrar libros y usuarios.
+  - Prestar libros y manejar lista de espera.
+  - Devolver libros y registrar devoluciones recientes.
+  - Buscar libros y usuarios.
+  - Mostrar árboles ordenados alfabéticamente.
+
+---
  
  ## Uso
  1. Registrar libros y usuarios.
@@ -24,6 +52,20 @@
  4. Buscar libros disponibles.
  5. Ver el total de préstamos realizados.
  6. Utilizar el menú interactivo para navegar por las opciones.
+
+ ## Uso
+=== Menú de Biblioteca ===
+1. Registrar libro
+2. Registrar usuario
+3. Prestar libro
+4. Devolver libro
+5. Buscar libro
+6. Buscar usuario
+7. Mostrar libros
+8. Mostrar usuarios
+9. Mostrar libros devueltos recientemente
+0. Salir
+
  
  ## Arquitectura del Código
  El sistema está estructurado de la siguiente manera:
