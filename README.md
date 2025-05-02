@@ -3,7 +3,7 @@
 ## Descripción ✍🏽
  Este proyecto es un **Sistema de Gestión de Biblioteca** que utiliza **Estructuras de Datos Lineales** como **listas, pilas, colas y arreglos** para administrar de manera eficiente la información de libros y usuarios. Es una implementación inicial enfocada en la organización y manipulación de datos con estructuras fundamentales en computación.
  
- ## Características
+ ## Características 🔠
  - **Registro de libros** con detalles como título, autor, género y disponibilidad.
  - **Gestor de usuarios** con información sobre los lectores.
  - **Préstamos y devoluciones** mediante una estructura de **cola** (FIFO).
@@ -43,7 +43,7 @@
   - Mostrar árboles ordenados alfabéticamente.
 
  
- ## Uso
+ ## Uso🔧
  1. Registrar libros y usuarios.
  2. Realizar préstamos y devoluciones de libros.
  3. Consultar el historial de lectura de los usuarios.
@@ -51,7 +51,7 @@
  5. Ver el total de préstamos realizados.
  6. Utilizar el menú interactivo para navegar por las opciones.
 
- ## Uso
+ ## Ejemplo de ejecucion 🚀
 === Menú de Biblioteca ===
 1. Registrar libro
 2. Registrar usuario
@@ -65,7 +65,7 @@
 0. Salir
 
  
- ## Arquitectura del Código
+ ## Arquitectura del Código 🏢
  El sistema está estructurado de la siguiente manera:
  - **Estructuras de Datos**: Se utilizan listas para almacenar libros y usuarios, una cola para los préstamos y una pila para el historial de libros leídos.
  - **Funciones principales:**
