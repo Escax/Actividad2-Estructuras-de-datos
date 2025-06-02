@@ -76,7 +76,11 @@
    - `ver_historial(usuario)`: Muestra el historial de lectura de un usuario.
    - `total_prestamos()`: Muestra el total de libros prestados en el sistema.
  - **Menú interactivo:** Permite al usuario gestionar la biblioteca mediante opciones en consola.
- 
+
+ ---
+⚠️ Proyecto realizado con fines académicos para la asignatura *Estructura de Datos*.  
+Todos los derechos pertenecen a sus respectivos autores.
+
 
 
 
