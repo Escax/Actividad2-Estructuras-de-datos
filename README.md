@@ -81,5 +81,5 @@
 
 
 ---
-## **Autores:** Andres Felipe Luenguas | Jhojan Esneider Monroy | Eduardo Romero | Alejandro Rodriguez. 🫱🏽‍🫲🏽
+## **Autores:** Andres Felipe Luenguas | Jhojan Esneider Monroy | Alejandro Rodriguez. 🫱🏽‍🫲🏽
 
