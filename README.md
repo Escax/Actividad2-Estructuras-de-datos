@@ -1,5 +1,5 @@
 ### Estructura de datos | CORPORACIÓN UNIVERSITARIA IBEROAMERICANA.
-- Basado en: Actividad 2 - Proyecto: sistema de gestión de biblioteca **(Gestor de biblioeca.py)** y Actividad 4 - Proyecto: modelar las interacciones entre los usuarios y los libros **(Gestor de biblioteca_V2.py)**. 
+- Basado en: Actividad 2 - Proyecto: sistema de gestión de biblioteca **(Gestor de biblioeca.py)**, Actividad 4 - Proyecto: modelar las interacciones entre los usuarios y los libros **(Gestor de biblioteca_V2.py)** y Actividad 6 - Proyecto: Proyecto final. Implementación de árboles para mejorar la eficiencia en la búsqueda de libros y usuarios. **(Gestor de biblioteca_V3.py)** 
 ## Descripción ✍🏽
  Este proyecto es un **Sistema de Gestión de Biblioteca** que utiliza **Estructuras de Datos Lineales** como **listas, pilas, colas y arreglos** para administrar de manera eficiente la información de libros y usuarios. Es una implementación inicial enfocada en la organización y manipulación de datos con estructuras fundamentales en computación.
  
